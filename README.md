@@ -16,7 +16,7 @@ Data from 2018-2020
 
 - **In-depth Analytics**: Conduct in-depth analysis to unveil concealed patterns in financial data, empowering strategic decision-making.
 
-Below is an overview of the Power BI dashboard:
+- Below is an overview of the Power BI dashboard:
 ![Power BI overview](https://github.com/RaphaelHoudouin/finance-bi-dashboard/blob/main/screenshots/Finance_Dashboard_Screenshot.png)
 
 ## Technology Stack
