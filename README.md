@@ -16,6 +16,8 @@ Data from 2018-2020
 
 - **In-depth Analytics**: Conduct in-depth analysis to unveil concealed patterns in financial data, empowering strategic decision-making.
 
+Below is an overview of the Power BI dashboard:
+
 ## Technology Stack
 
 - **Power BI**: The primary tool used for developing the financial reporting and analysis solution.
