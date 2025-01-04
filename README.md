@@ -25,3 +25,18 @@ Here are a few examples of what you can do with the Financial Reporting & Analys
 - Analyze revenue and expenses to identify trends and anomalies.
 - Create scenario analysis models to evaluate the impact of different business decisions on financial performance.
 - Perform comparative analysis across different time periods or business units.
+
+## License
+
+Distributed under the GNU General Public License (GPL). See LICENSE for more information.
+
+## Additional Notes
+
+- While the methodology can be applied to other datasets, further validation is needed for real-world applications.
+- This project does not constitute financial advice.
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
+
