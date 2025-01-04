@@ -3,6 +3,9 @@
 
 This project showcases a comprehensive financial reporting and advanced analysis solution built using Power BI. Leveraging powerful data analysis expressions (DAX) and financial analysis techniques, this project delivers adaptable visualizations and insightful analytics for diverse datasets.
 
+## Data Source
+Data from 2018-2020
+
 ## Features
 
 - **Comprehensive Financial Reporting**: Gain insights into financial performance through a detailed Profit & Loss Statement and other fundamental analytics.
