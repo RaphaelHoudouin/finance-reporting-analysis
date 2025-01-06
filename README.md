@@ -1,4 +1,4 @@
-# Financial Reporting Analysis
+# Financial Reporting Solution
  *Personal Project: Exploring Power BI with Finance Data*
 
 This project showcases a comprehensive financial reporting and advanced analysis solution built using Power BI. Leveraging powerful data analysis expressions (DAX) and financial analysis techniques, this project delivers adaptable visualizations and insightful analytics for diverse datasets.
