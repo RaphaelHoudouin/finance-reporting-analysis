@@ -19,7 +19,7 @@ Data from 2018-2020
 ## Power BI Dashboard 
 
 **Below is an overview of the Power BI dashboard:**
-![Power BI overview](https://github.com/RaphaelHoudouin/finance-bi-dashboard/blob/main/screenshots/Finance_Dashboard_Screenshot.png)
+![Power BI overview](https://github.com/raphaelhoudouin/finance-bi-dashboard/blob/main/screenshots/Finance_Dashboard_Screenshot.png)
 
 ## Technology Stack
 
@@ -45,7 +45,5 @@ Distributed under the GNU General Public License (GPL). See LICENSE for more inf
 - This project does not constitute financial advice.
 
 ## Contact
-
-For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
-
+For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
